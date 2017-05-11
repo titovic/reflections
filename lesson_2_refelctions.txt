@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Creates a hidden folder named .git to act as project repository fir version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging is a temporary area that will hold files while awaiting commit to the repository. Destination for the command "git add"
